@@ -1,6 +1,7 @@
----
+00---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Make America great again!"
+"!!!"
+"North Carolina"
 Use the left arrow to go back!
