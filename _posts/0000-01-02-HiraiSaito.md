@@ -3,5 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 "!!!"
-"North Carolina"
+"make america greate again!"
+
 Use the left arrow to go back!
